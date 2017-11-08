@@ -1,5 +1,5 @@
 # Site
-title :              DaemonKraken
+title :             DaemonKraken
 bio:                'Blog de tecnologia.'
 description:        "Esta destinado para las personas que les guste el software libre."
 reading_time:       true
@@ -30,7 +30,7 @@ disqus_shortname:   DaemonKraken
 
 # Social
 # if you don't have any of social below, comment the line.
-#google:
+google:
   plus:            #username
   #analytics:
   #verify:
