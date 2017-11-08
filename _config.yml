@@ -1,5 +1,5 @@
 # Site
-title:              Daemon Kraken
+title:              'Daemon Kraken'
 bio:                'Blog de tecnologia.'
 description:        "Esta destinado para las personas que les guste el software libre."
 reading_time:       true
@@ -8,7 +8,7 @@ logo:
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://daemonkraken.github.io/
+url:                'https://daemonkraken.github.io/'
 
 # Jekyll
 permalink:          /:title/
